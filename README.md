@@ -100,6 +100,7 @@ https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/b0a860d302424ac6f357e1
 ### アニメーション制御
 
 Animatorのレイヤーを3層（下半身・上半身・腕）に分け、状態に応じてレイヤーウェイトをスクリプトから制御することで、限られたモーション素材から壁走り・よじ登り・スライディング中に銃を構えるアニメーションを実現している。
+https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/e5ba6107af808403d510257db1d451eb65fc434c/Scripts/Player/PlayerMovement.cs#L326-L337
 
 RigBuilderパッケージのIKで手を銃のグリップに追従させ、コンストレイントで頭の向きをエイム方向に合わせている。
 
