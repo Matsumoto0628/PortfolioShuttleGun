@@ -2,11 +2,12 @@
 
 シャトルランをモチーフにした3DTPSゲーム
 
+<p align="center">
 <video src="https://github.com/user-attachments/assets/324a3cce-0f68-463e-9c8c-5d358a26fe14"
-       width="1400"
-       height="800"
+       width="700"
        controls>
 </video>
+</p>
 
 - **開発期間** : 1ヶ月
 - **制作人数** : 1人
