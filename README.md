@@ -122,6 +122,7 @@ https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/5f59cdf184085ebb474583
 ### 抽象クラスによる銃の拡張
 
 `Gun` 抽象クラスが `Fire()` の共通処理（Raycast・ソート）を担い、`Impact` / `Apply` / `CanFire` などを抽象メソッドとして派生クラスに委譲している。新しい銃を追加する際は抽象メソッドを実装するだけでよく、呼び出し側のコードを変更する必要がない。
+https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/a01ab758ba44d2603f287ab04567805c665839f5/Scripts/Gun/Gun.cs#L15-L27
 
 ### UniTaskによる非同期制御
 
