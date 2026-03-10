@@ -117,6 +117,7 @@ https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/956894e84958263627fd12
 ### ジェネリックFSMによるAI制御
 
 `IState<EState, T>` インターフェースと `FSM<EState, T>` クラスをジェネリックで実装し、敵AIの状態管理を行っている。状態ごとに `Enter` / `Update` / `Exit` を持つことで、遷移時の処理が明確に分離されている。
+https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/5f59cdf184085ebb474583a4c456923ed7473828/Scripts/Enemy/FSM.cs#L4-L10
 
 ### 抽象クラスによる銃の拡張
 
