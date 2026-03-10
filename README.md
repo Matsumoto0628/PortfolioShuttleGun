@@ -137,7 +137,9 @@ https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/d5b8371df8c36f0f072bc6
 2. ZIPを展開する
 3. `ShuttleGun.exe` を起動する
 
-
+<p>
+<img width="1345" height="752" alt="スクリーンショット 2026-03-11 011655" src="https://github.com/user-attachments/assets/8eb7491c-bf5f-41ea-9c22-5656ab4205b3" />
+</p>
 
 <br>
 <br>
