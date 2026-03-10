@@ -127,6 +127,7 @@ https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/a01ab758ba44d2603f287a
 ### UniTaskによる非同期制御
 
 よじ登りではDOTweenのアニメーションを `async/await` で順番に待機することで、コルーチンでは難しかった複数アニメーションの直列実行を簡潔に記述している。
+https://github.com/Matsumoto0628/PortfolioShuttleGun/blob/d5b8371df8c36f0f072bc6472156e6f79b39883b/Scripts/Player/PlayerMovement.cs#L770-L779
 
 <br>
 <br>
