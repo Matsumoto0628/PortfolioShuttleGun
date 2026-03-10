@@ -4,6 +4,7 @@
 
 <video src="https://github.com/user-attachments/assets/324a3cce-0f68-463e-9c8c-5d358a26fe14"
        width="700"
+       height="400"
        controls>
 </video>
 
